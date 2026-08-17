@@ -48,6 +48,12 @@ remote:     locations: commit abc123 path: backup/state.db:391
 
 See `references/backup-script-template.sh` for a full working script and `references/restore-recipe.md` for recovery steps.
 
+## Pitfall: Windows /tmp path + silently failing git commands
+
+On Windows, Hermes' own scripts run through **native Python**, where MSYS-style `/tmp` does NOT resolve (Python's temp is `%LOCALAPPDATA%\Temp`). Passing `/tmp/...` as `cwd=` raises `NotADirectoryError: [WinError 267]`. Use `r"C:\Users\<user>\AppData\Local\Temp\hermes-backup"`-style native paths in Python scripts.
+
+Also: a script that runs `git remote set-url` / `git config` / `git pull` via shell but **ignores return codes** will silently fail if the repo dir is broken (e.g. a stale copy without `.git`) and then report a false `"No changes to commit."` — the backup never happens. Always check exit codes of every git subcommand, and sanity-check the repo (`git rev-parse HEAD` after push).
+
 ## Prerequisites
 
 - Git installed and functional
