@@ -1,18 +1,21 @@
 {
   "jobs": [
     {
-      "id": "8f258a105916",
-      "name": "hermes-backup-12h",
-      "prompt": "Run the Hermes backup script at /tmp/hermes-backup.sh using terminal(). This script backs up all critical Hermes Agent data (memories, skills, config, state.db, sessions, cron jobs, etc.) to the GitHub repo https://github.com/hoseinariyanrad/hermes-backup. Just execute `bash /tmp/hermes-backup.sh` and report the result.",
+      "id": "785638caae48",
+      "name": "hermes-github-autobackup",
+      "prompt": "Execute the auto_backup.py script to sync Hermes state (memories, skills, cron, config) to GitHub repo.",
       "skills": [],
       "skill": null,
       "model": null,
       "provider": null,
-      "provider_snapshot": "openrouter",
-      "model_snapshot": null,
+      "provider_snapshot": "custom",
+      "model_snapshot": "hermes",
       "base_url": null,
-      "script": null,
+      "script": "auto_backup.py",
       "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
       "context_from": null,
       "schedule": {
         "kind": "interval",
@@ -22,32 +25,28 @@
       "schedule_display": "every 720m",
       "repeat": {
         "times": null,
-        "completed": 25
+        "completed": 0
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
-      "created_at": "2026-08-01T07:02:06.068329+00:00",
-      "next_run_at": "2026-08-14T20:30:04.326790+00:00",
-      "last_run_at": "2026-08-14T08:30:04.326790+00:00",
-      "last_status": "error",
-      "last_error": "RuntimeError: Cron job 'hermes-backup-12h' has no model configured (job.model=None, HERMES_MODEL='', config.yaml model.default missing or empty). Set a per-job model via `cronjob action=update job_id=8f258a105916 model=<name>` or set a default with `hermes model <name>`.",
+      "created_at": "2026-08-17T14:22:32.796311+03:30",
+      "next_run_at": "2026-08-18T02:27:44.638821+03:30",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
       "last_delivery_error": null,
+      "failure_streak": 0,
       "deliver": "local",
-      "origin": {
-        "platform": "telegram",
-        "chat_id": "7121644277",
-        "chat_name": "Gold Golden",
-        "thread_id": null,
-        "user_id": "7121644277"
-      },
-      "enabled_toolsets": [
-        "terminal"
-      ],
+      "origin": null,
+      "enabled_toolsets": null,
       "workdir": null,
-      "fire_claim": null
+      "fire_claim": {
+        "at": "2026-08-17T14:41:45.218558+03:30",
+        "by": "DESKTOP-EU45300:13796:b4664294d2f948f78012b39c172e32c6"
+      }
     }
   ],
-  "updated_at": "2026-08-14T08:30:04.326909+00:00"
+  "updated_at": "2026-08-17T14:41:45.219593+03:30"
 }
