@@ -15,3 +15,9 @@ User is an enthusiast of Chinese anime (Donghua) and manages media subtitles and
 User is an enthusiast of Chinese anime (Donghua), specifically following series like Legend of Xianwu, Jade Dynasty, Against the Gods, and Soul Land, and prefers to have subtitles or media processed and checked for quality.
 §
 User is interested in Chinese anime (Donghua, e.g. Jade Dynasty, Against The Gods, Gu An, Yi Zhan Cangqiong) and often requests downloading, processing, translating, or tracking release dates for them.
+§
+CRITICAL formatting preference: When reporting lists of items (anime, news, etc.), EACH item MUST be sent as its OWN separate Telegram message. NEVER combine multiple items in one message. The number of messages MUST equal the number of items found. Send them back-to-back consecutively without waiting for user to say "next" or confirm.
+§
+Daily Donghua (Chinese anime) update: User wants daily check at 10:00 AM Tehran time. Each anime message must include: poster image, English name, Chinese name (characters), Persian name, genre, seasons and episode counts (aired vs total), full detailed synopsis in Persian, download links for Iranian sites (aparat, Telegram channels).
+§
+User timezone: Iran (IRST/IRDT, UTC+3:30/UTC+4:30). Prefers 10:00 AM Tehran time for scheduled tasks.
