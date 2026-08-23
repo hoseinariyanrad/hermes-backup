@@ -15,3 +15,11 @@ User expects high-quality, fluent Persian translations — NOT word-for-word mac
 User has tried Ubuntu, Mint, Zorin, Manjaro Linux but didn't like any. Main use cases: watching anime/movies, web browsing, and running Windows programs via Wine. Recommended Nobara Linux (Official/KDE) as best fit.
 §
 User has advanced Python batch x265 video conversion script with GPU detection, auto-categorization (Movies/Series/Anime), progress bars, subtitle muxing, and conversion history. Uses it regularly for reducing video file sizes.
+§
+Cron job lesson: Always pin model and provider explicitly when creating cron jobs. Use: /opt/venv/bin/hermes cron edit <job_id> --model hermes --provider openai-api. Without this, cron jobs fail with "no model configured" error.
+§
+User preference for media reporting: Each item (anime, show, etc.) MUST be sent as its separate individual message. NEVER combine multiple items in one message. Number of messages must equal number of items found. Send back-to-back without waiting for user confirmation.
+§
+GitHub backup repo: hoseinariyanrad/hermes-backup. API token provided by user. Backup script at /data/.hermes/scripts/auto_backup.py. Cron job f95eeea96763 runs every 12h.
+§
+Donghua tracking sources: animexin.dev/release-date/, mydonghuareview.com, animeschedule.net, donghuasubs.com. User wants: English name, Chinese name, Persian name, poster image, season/episode counts, full synopsis, download links (aparat, Telegram).
