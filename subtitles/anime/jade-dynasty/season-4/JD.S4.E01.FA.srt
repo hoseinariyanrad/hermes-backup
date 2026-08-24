@@ -8,12 +8,12 @@
 
 3
 00:00:00,000 --> 00:00:24,800
-E
+فصل ۴
 
 4
 00:00:00,450 --> 00:00:05,950
-Subtitled by Queen Medusa
-[Telegram] - ({Donghua_Sigmas)
+زیرنویس: ملکه مدوسا
+[تلگرام] - (@Donghua_Sigmas)
 
 5
 00:02:36,100 --> 00:02:36,700
@@ -277,8 +277,7 @@ Subtitled by Queen Medusa
 
 72
 00:06:09,700 --> 00:06:14,000
-TN: "Xiao Hui" translates to "Little Gray" (the monkey), and
-"Da Huang" means "Big Yellow" (the dog).
+مترجم: «شیائو هویی» به معنای «خاکستری کوچولو» (میمون) و «دا هوانگ» به معنای «زرد بزرگ» (سگ) است.
 
 73
 00:06:09,700 --> 00:06:11,700
@@ -386,7 +385,7 @@ TN: "Xiao Hui" translates to "Little Gray" (the monkey), and
 
 99
 00:06:58,500 --> 00:06:58,900
-These...
+اینا...
 
 100
 00:06:58,900 --> 00:07:00,700
@@ -570,8 +569,7 @@ These...
 
 145
 00:09:55,700 --> 00:10:00,000
-TN: The Donghua altered the novel's "Miao Tribe" to the elemental
-"Gold Tribe" (Jin Zu) to avoid real world ethnic references.
+مترجم: دانگ‌هوآ قبیله «میائو» رمان را به قبیله «طلا» (جین زو) تغییر داد تا از ارجاعات قومی دنیای واقعی جلوگیری کند.
 
 146
 00:09:55,700 --> 00:09:58,900
@@ -619,8 +617,7 @@ TN: The Donghua altered the novel's "Miao Tribe" to the elemental
 
 157
 00:10:43,800 --> 00:10:46,000
-TN: The tribes of the Southern Border worship primal animal totems.
-The Dog Deity (犬神) is the sacred guardian spirit of the Gold Tribe.
+مترجم: قبایل مرز جنوبی توتم‌های حیوانی اولیه را می‌پرستند. خدای سگ روح نگهبان مقدس قبیله طلا است.
 
 158
 00:10:43,700 --> 00:10:46,100
@@ -628,7 +625,7 @@ The Dog Deity (犬神) is the sacred guardian spirit of the Gold Tribe.
 
 159
 00:10:46,900 --> 00:10:47,300
-These...
+اینا...
 
 160
 00:10:47,700 --> 00:10:49,300
@@ -992,7 +989,7 @@ These...
 
 250
 00:15:25,000 --> 00:15:28,800
-TN : FenXiang Valley = Burning Incense Valley
+مترجم: درّه فن‌شیانگ = درّه عود سوزان
 
 251
 00:15:25,000 --> 00:15:26,800
@@ -1060,14 +1057,12 @@ TN : FenXiang Valley = Burning Incense Valley
 
 267
 00:15:56,200 --> 00:16:00,000
-was constructed by our sect's ancestors based
-on the records in the Burning Incense Jade Tome.
+توسط نیاکان فرقه ما بر اساس نوشته‌های کتاب یشم فن‌شیانگ ساخته شده.
 
 268
 00:16:00,000 --> 00:16:05,000
-TN : Burning Incense Jade Tome (焚香玉册 - Fénxiāng Yùcè) - Translated as "Tome" rather than "Book" to reflect its ancient, high fantasy weight. This is the supreme cultivation manual of Burning Incense Valley. Its darkest
-secret is the Inferno Altar's forbidden formation, which uses the Inferno Mirror to summon
-the world-ending Eight Desolation Fire Dragon.
+مترجم: کتاب یشم عود سوزان (焚香玉册). کتابچه راهنمای عالی تزکیه درّه فن‌شیانگ. تاریک‌ترین راز آن آرایش ممنوعه محراب جهنم است.
+تاریک‌ترین راز آن آرایش ممنوعه محراب جهنم است که از آینه جهنمی برای احضار اژدهای آتشین هشت برهوت استفاده می‌کند.
 
 269
 00:16:00,800 --> 00:16:02,000
@@ -1087,8 +1082,7 @@ the world-ending Eight Desolation Fire Dragon.
 
 273
 00:16:11,000 --> 00:16:14,200
-and the spirits housed within the formation's engravings are
-the Eight Savage Ferocious Deities.
+و ارواح داخل حکاکی‌های طلسم، خدایان وحشی هشتگانه هستند.
 
 274
 00:16:14,600 --> 00:16:15,800
@@ -1200,113 +1194,112 @@ the Eight Savage Ferocious Deities.
 
 301
 00:18:11,400 --> 00:18:13,790
-We have already obtained three of the Four Divinities.
+ما در حال حاضر سه تا از چهار موجود الهی را به دست آورده‌ایم.
 
 302
 00:18:11,400 --> 00:18:16,000
-TN: The Four Divinities are ancient mythical beasts: Kui Niu (Thunder Beast), Yellow Bird (Huang Niao), TaoTie (Gluttonous Beast),
-and ZhuLong (Torch Dragon). The Ghost King is hunting them to activate the apocalyptic Four Divinities Blood Formation.
+مترجم: چهار موجود الهی جانوران اسطوره‌ای باستانی هستند: کوی نیو (جانور رعد)، پرنده زرد (هوانگ نیاو)، تائوتی (جانور حریص) و ژولونگ (اژدهای مشعل). پادشاه ارواح در حال شکار آنهاست.
 
 303
 00:18:14,000 --> 00:18:16,400
-As long as we capture the ferocious beast, TaoTie...
+تا زمانی که جانور درنده، تائوتی را بگیریم...
 
 304
 00:18:16,600 --> 00:18:17,400
-...this world...
+...این دنیا...
 
 305
 00:18:17,600 --> 00:18:20,200
-...will be entirely within the Sect Master's grasp.
+...کاملاً در دستان ارباب فرقه خواهد بود.
 
 306
 00:18:21,000 --> 00:18:23,000
-I have already dispatched our people to handle this matter.
+من قبلاً افرادمان را برای رسیدگی به این موضوع اعزام کرده‌ام.
 
 307
 00:18:24,000 --> 00:18:25,000
-I presume...
+حدس می‌زنم...
 
 308
 00:18:25,200 --> 00:18:27,400
-...he will not disappoint me.
+...او ناامیدم نخواهد کرد.
 
 309
 00:18:30,540 --> 00:18:35,790
-Listen to the ancient chimes across the Seven Peaks
+به ناقوس‌های باستانی در سراسر هفت قله گوش بده
 
 310
 00:18:35,790 --> 00:18:42,960
-Above the clear jade pool's rainbow bridge, the wind quiets the sea of bamboo
+بالای پل رنگین‌کمان حوض یشم پاک، باد دریای بامبو را آرام می‌کند
 
 311
 00:18:42,960 --> 00:18:47,000
-Walking beneath the gazing moon
+قدم زدن زیر ماه خیره‌کننده
 
 312
 00:18:48,770 --> 00:18:54,020
-Watching clouds drift and gather in the azure sky
+تماشای ابرها در آسمان لاجوردی
 
 313
 00:18:54,540 --> 00:19:01,700
-Through millennia, how many times has the mortal realm changed?
+در طول هزاره‌ها، دنیا چند بار عوض شده؟
 
 314
 00:19:03,220 --> 00:19:08,000
-Wild grass overgrows ruined temples and forgotten villages
+علف‌های هرز روی معابد ویران و روستاهای فراموش‌شده رو گرفته
 
 315
 00:19:08,940 --> 00:19:16,000
-Though stained by the world's ink, my true soul remains pure
+اگرچه با جوهر دنیا لکه‌دار شدم، روحم پاک مونده
 
 316
 00:19:17,250 --> 00:19:22,900
-How to see through the illusion? To shatter these heavy shackles
+چطور توهم رو ببینیم؟ چطور این زنجیرهای سنگین رو بشکنیم؟
 
 317
 00:19:23,620 --> 00:19:26,000
-To sever the threads of karma
+برای بریدن رشته‌های کارما
 
 318
 00:19:27,300 --> 00:19:31,380
-Can true liberation ever be found?
+آیا می‌تونیم به رهایی واقعی برسیم؟
 
 319
 00:19:31,380 --> 00:19:37,580
-I refuse to hide, for I am one with this mortal dust
+من نمی‌خوام پنهون بشم، چون یکی با این خاک فانی هستم
 
 320
 00:19:37,580 --> 00:19:39,200
-So stand beside me
+پس کنار من وایسا
 
 321
 00:19:39,750 --> 00:19:46,020
-Shatter the veil of illusion, behold the towering green mountains
+پرده توهم رو پاره کن، کوه‌های سرسبز سر به فلک کشیده رو بنگر
 
 322
 00:19:46,020 --> 00:19:49,340
-Where the sky is boundless and the sea is vast
+جایی که آسمان بی‌کران و دریا وسیعه
 
 323
 00:19:49,340 --> 00:19:55,930
-How to see through it all? These heavy shackles
+چطور همه چیز رو ببینیم؟ این زنجیرهای سنگین
 
 324
 00:19:55,940 --> 00:19:59,540
-To settle the debts of karma
+برای تسویه بدهی‌های کارما
 
 325
 00:19:59,550 --> 00:20:06,100
-I refuse to hide, for I am one with this mortal dust
+من نمی‌خوام پنهون بشم، چون یکی با این خاک فانی هستم
 
 326
 00:20:06,100 --> 00:20:09,000
-So stand beside me
+پس کنار من وایسا
 
 327
 00:20:09,350 --> 00:20:16,740
-Break through the sea of clouds, behold the towering green mountains
+از دریای ابرها عبور کن، کوه‌های سرسبز سر به فلک کشیده رو بنگر
 
 328
 00:20:16,750 --> 00:20:22,540
-Where the sky is boundless and the sea is vast
+جایی که آسمان بی‌کران و دریا وسیعه
