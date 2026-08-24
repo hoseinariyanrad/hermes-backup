@@ -7,3 +7,5 @@ User speaks Persian (Farsi) as their primary language. All responses must be in 
 User prefers high-quality, natural, and context-aware cinematic Persian translations for subtitles, with proper pronoun agreement and fluent dialogue styling, avoiding machine/literal translation.
 §
 User prefers working on files one at a time (sequentially), not in parallel. Gets frustrated when tasks take too long or promises are repeated without delivery. Prefers direct action over explanations. Communicates in Persian (Farsi).
+§
+User explicitly rejects background subagent/parallel approaches for subtitle translation. Direct, sequential, in-main-session execution is mandatory for this user's tasks. They get frustrated when promises repeat without delivery — never say "I'll do X" unless immediately executing X.
