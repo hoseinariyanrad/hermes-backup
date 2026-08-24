@@ -29,7 +29,7 @@
 
 8
 00:02:37,120 --> 00:02:38,520
-آرایش بزرگ در آستانه فعال‌سازی است.
+سحرگاه بزرگ در آستانه فعال‌سازی است.
 
 9
 00:02:38,720 --> 00:02:40,520
@@ -53,7 +53,7 @@
 
 14
 00:02:53,120 --> 00:02:54,320
-پالایش یک آرایش با خون انسان...
+آفریدن طلسم با خون انسان...
 
 15
 00:02:55,320 --> 00:02:56,720
@@ -89,11 +89,11 @@
 
 23
 00:03:12,520 --> 00:03:14,520
-...تا این آرایش بی‌همتا و شگفت‌انگیز را پالایش کنیم!
+...تا این سحر بی‌همتا و شگفت‌انگیز را بیافرینیم!
 
 24
 00:03:36,520 --> 00:03:40,120
-TN: Jade Yang Realm (玉阳境) is a high-tier cultivation milestone in Burning Incense Valley's supreme manual, the Burning Incense Jade Tome. The other two tires are Shao Yang Realm (少阳境) – Lesser Yang Realm and Zhi Yang Realm (至阳境) – فصل ۴xtreme Yang Realm (The intermediate tier)
+TN: قلمرو یانگ یشمی (玉阳境) is a high-tier cultivation milestone in Burning Incense Valley's supreme manual, the Burning Incense Jade Tome. The other two tires are Shao Yang Realm (少阳境) – Lesser Yang Realm and Zhi Yang Realm (至阳境) – حداکثر Yang Realm (The intermediate tier)
 
 25
 00:03:36,520 --> 00:03:37,720
@@ -109,7 +109,7 @@ TN: Jade Yang Realm (玉阳境) is a high-tier cultivation milestone in Burning 
 
 28
 00:03:45,920 --> 00:03:48,120
-از آنجا که این‌قدر مشتاق فعال کردن این آرایش هستید...
+از آنجا که این‌قدر مشتاق فعال کردن این سحر هستید...
 
 29
 00:03:48,320 --> 00:03:49,120
@@ -161,7 +161,7 @@ TN: Jade Yang Realm (玉阳境) is a high-tier cultivation milestone in Burning 
 
 41
 00:04:25,520 --> 00:04:26,110
-Martial Uncle,
+عموی رزمی،
 
 42
 00:04:26,520 --> 00:04:27,320
@@ -813,7 +813,7 @@ Martial Uncle,
 
 204
 00:13:50,520 --> 00:13:51,120
-Grandpa!
+پدربزرگ!
 
 205
 00:14:02,520 --> 00:14:04,120
@@ -829,7 +829,7 @@ Grandpa!
 
 208
 00:14:11,920 --> 00:14:12,300
-Grandpa!
+پدربزرگ!
 
 209
 00:14:12,520 --> 00:14:13,120
