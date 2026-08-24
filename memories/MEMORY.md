@@ -1,0 +1,1 @@
+User prefers doing tasks directly in the main session step-by-step (one file at a time, test/push individually) rather than spawning slow background subagent swarms for subtitle translation.

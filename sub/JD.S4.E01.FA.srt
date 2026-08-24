@@ -1,31 +1,31 @@
 1
 00:00:00,000 --> 00:00:24,800
-دانگ‌هوآ
+{\fad(500,700)\3c&HFFFFFF&\pos(277,70)\fs60}D O N G H U A
 
 2
 00:00:00,000 --> 00:00:24,800
-سیگماس
+{\fad(500,700)\c&HFFFF00&\pos(380,110)\fnPacifico Regular\fs80}Sigmas
 
 3
 00:00:00,000 --> 00:00:24,800
-فصل
+{\fad(500,700)\pos(60,105)\fnEagle\fs110\1c&HB8D3EC&}E
 
 4
 00:00:00,450 --> 00:00:05,950
-Subtitled by Queen Medusa
+{\fad(100,600)\fn方正苏新诗柳楷繁体\pos(950,690)\fs55\1c&HB8D3EC&}Subtitled by Queen Medusa
 [Telegram] - ({Donghua_Sigmas)
 
 5
 00:02:36,100 --> 00:02:36,700
-آروم باش!
+یواش‌تر!
 
 6
 00:02:36,700 --> 00:02:37,900
-یواش‌تر، این سر و صداها چیه؟
+سر و صدا نکنید، این همه سر و صدا برای چیه؟
 
 7
 00:02:37,900 --> 00:02:39,100
-خیلی خب، خیلی خب، تحویلش بده!
+خیلی خب، خیلی خب، بدش من!
 
 8
 00:02:39,900 --> 00:02:41,100
@@ -73,1237 +73,1249 @@ Subtitled by Queen Medusa
 
 19
 00:03:46,820 --> 00:03:48,740
-نهه‌ه‌ه!
+Nooo!
 
 20
 00:03:49,850 --> 00:03:52,860
-قسمت اول (E79)
+{\fad(100,600)\fnHey Comic\pos(970,610)\fs80}Episode 01 (E79)
 
 21
 00:03:53,150 --> 00:03:58,720
+{\pos(560,200)\1c&H715B45&\1a&H80&\3c&H3642B5&\3a&H00&\bord3\shad0\p1}m -230 -40 l -200 -60 l 200 -60 l 230 -40 l 230 40 l 200 60 l -200 60 l -230 40{\p0}
+
 22
 00:03:53,150 --> 00:03:58,720
-فرقه کینگ‌یون
+{\fnAaLingSheZhuan\pos(330,110)\c&H629AC4&\3c&H111111&\bord4\blur8\fs70}فرقه کینگ‌یون
 
 23
 00:04:00,100 --> 00:04:01,700
-تا زمانی که خدای دیوان زنده بماند،
+{\c&HFFFFFF&\3c&H3642B5&\bord2\blur15}As long as the Beast Deity remains alive,
 
 24
 00:04:02,100 --> 00:04:03,700
-او برای همیشه بلای جان این دنیا خواهد بود.
+{\c&HFFFFFF&\3c&H3642B5&\bord2\blur15}he will forever be a scourge upon this world.
 
 25
 00:04:04,500 --> 00:04:06,300
-هرگز اجازه نخواهم داد این کابوس...
+{\c&HFFFFFF&\3c&H3642B5&\bord2\blur15}I will never allow this nightmare...
 
 26
 00:04:06,400 --> 00:04:07,500
-...به واقعیت تبدیل شود.
+{\c&HFFFFFF&\3c&H3642B5&\bord2\blur15}...to become a reality.
 
 27
 00:04:18,300 --> 00:04:19,900
-از زمانی که خواهر کوچک‌تر لینگ‌اِر ازدواج کرد...
+Ever since Little Junior Sister Ling'er got married...
 
 28
 00:04:19,900 --> 00:04:21,700
-...خیلی وقت بود اینجا اینقدر سر زنده و شلوغ نشده بود.
+...it’s been a long time since things were this lively around here.
 
 29
 00:04:19,700 --> 00:04:21,600
+{\pos(560,200)\1c&H75A9D6&\1a&H80&\3c&H3F688F&\3a&H00&\bord2\shad0\p1}m -230 -30 l -200 -45 l 200 -45 l 230 -30 l 230 30 l 200 45 l -200 45 l -230 30{\p0}
+
 30
 00:04:19,700 --> 00:04:21,600
-تالار خاموشی
+{\fnAaLingSheZhuan\pos(330,140)\c&H252322&\3c&H9BBDE0&\bord3\blur4\fs60}Observed Silence Hall
 
 31
 00:04:22,700 --> 00:04:23,700
-میمون شرور!
+You rascal monkey!
 
 32
 00:04:24,090 --> 00:04:24,900
-سگ احمق!
+Stupid dog!
 
 33
 00:04:34,700 --> 00:04:35,500
-الان چیکار باید بکنیم؟!
+What are we going to do?!
 
 34
 00:04:35,900 --> 00:04:36,900
-همین الان بیای پایین!
+Get down from there right now!
 
 35
 00:04:40,300 --> 00:04:41,090
-نزدیک بود!
+That was close!
 
 36
 00:04:43,300 --> 00:04:44,000
-گرفتمش!
+I've got it!
 
 37
 00:04:46,000 --> 00:04:46,480
-گرفتمش!
+I've got it!
 
 38
 00:04:46,500 --> 00:04:47,500
-منم گرفتمش!
+I've got it too!
 
 39
 00:04:48,090 --> 00:04:48,700
-بگیریدش!
+Catch him!
 
 40
 00:04:49,300 --> 00:04:50,700
-هنوزم می‌تونم بگیرمش!
+I can still catch it!
 
 41
 00:04:58,700 --> 00:04:59,500
-کارمون ساخته‌ست... کاملاً بدبخت شدیم!
+We're doomed... we are so doomed!
 
 42
 00:04:59,500 --> 00:05:00,500
-حالا دیگه واقعاً تو دردسر افتادیم.
+Now we're really in for it.
 
 43
 00:05:01,300 --> 00:05:02,500
-سلام به استاد!
+Paying respects to Master!
 
 44
 00:05:04,300 --> 00:05:05,500
-بذارشون به حال خودشون.
+Let them be.
 
 45
 00:05:14,260 --> 00:05:15,000
-تو بهش بگو.
+You tell him.
 
 46
 00:05:15,300 --> 00:05:16,100
-چرا نگفتی...
+Why didn't you mention...
 
 47
 00:05:16,500 --> 00:05:17,900
-...که غیر از این میمون،
+...that other than this monkey,
 
 48
 00:05:18,700 --> 00:05:19,680
-تو و لائو لیو...
+you and Lao Liu...
 
 49
 00:05:19,700 --> 00:05:21,500
-...هیچ نشونی از کس دیگری ندیدید؟
+...didn't see any sign of anyone else?
 
 50
 00:05:22,100 --> 00:05:22,400
-خب...
+Well...
 
 51
 00:05:22,500 --> 00:05:22,800
-نه...
+No...
 
 52
 00:05:23,400 --> 00:05:23,800
-چیزی نبود.
+There wasn't.
 
 53
 00:05:27,100 --> 00:05:27,900
-بسیار خب.
+Alright.
 
 54
 00:05:28,700 --> 00:05:29,300
-همه شما، برید بیرون.
+All of you, step outside.
 
 55
 00:05:29,400 --> 00:05:29,800
-بله!
+Yes!
 
 56
 00:05:32,300 --> 00:05:33,100
-فکر می‌کنی هفتمی...
+Do you think هفتمی...
 
 57
 00:05:37,500 --> 00:05:39,700
-فکر می‌کنی هفتمی ممکنه همین اطراف باشه؟
+Do you think Old Seventh might be somewhere nearby?
 
 58
 00:05:41,300 --> 00:05:42,300
-خودت می‌دونی اون چطوریه.
+You know how he is.
 
 59
 00:05:42,700 --> 00:05:44,300
-او همیشه پیوندهای عاطفی‌اش را بالاتر از هر چیز دیگری می‌دانسته.
+He has always valued his emotional bonds above all else.
 
 60
 00:05:44,900 --> 00:05:46,300
-اگر واقعاً می‌خواست دوباره شما را ببیند...
+If he truly wished to see you again...
 
 61
 00:05:46,700 --> 00:05:48,100
-...کاملاً طبیعی بود.
+...it would only be natural.
 
 62
 00:05:49,100 --> 00:05:49,700
-فقط اینکه...
+It's just that...
 
 63
 00:05:50,100 --> 00:05:51,100
-...با توجه به هویت فعلی‌اش،
+...given his current identity,
 
 64
 00:05:51,700 --> 00:05:53,100
-احتمالاً جرات نمی‌کند خودش را نشان دهد.
+he likely wouldn't dare show himself.
 
 65
 00:05:54,900 --> 00:05:56,700
-می‌دانم نگران چه چیزی هستید.
+I know what you're worried about.
 
 66
 00:05:57,100 --> 00:05:58,900
-آن روز بیرون غار ماه توهم...
+That day outside the Illusion Moon Cave...
 
 67
 00:05:58,900 --> 00:06:00,900
-با وجود اینکه توسط شمشیر ژو شیان زخمی شد،
+Even though he was wounded by the Zhu Xian Sword,
 
 68
 00:06:01,500 --> 00:06:03,100
-در نهایت زنده ماند.
+he survived in the end.
 
 69
 00:06:03,500 --> 00:06:05,100
-علاوه بر این، شایعات می‌گویند...
+Furthermore, rumors say...
 
 70
 00:06:05,300 --> 00:06:07,300
-...همدستانش موفق شدند او را فراری دهند.
+...his accomplices managed to spirit him away.
 
 71
 00:06:07,700 --> 00:06:09,500
-وقتی دارن به ما گزارش داد،
+When Daren reported back to us,
 
 72
 00:06:09,700 --> 00:06:14,000
-مترجم: «شیائو هویی» به معنای «خاکستری کوچولو» (میمون) و «دا هوانگ» به معنای «زرد بزرگ» (سگ) است.
+{\fn方正苏新诗柳楷繁体\pos(450,70)\fs30\1c&HB8D3EC&}TN: "Xiao Hui" translates to "Little Gray" (the monkey), and
+"Da Huang" means "Big Yellow" (the dog).
 
 73
 00:06:09,700 --> 00:06:11,700
-او اشاره کرد که شیائو هویی در کنارش نبوده.
+he mentioned that Xiao Hui wasn't by his side.
 
 74
 00:06:12,100 --> 00:06:12,700
-شاید...
+Perhaps...
 
 75
 00:06:13,100 --> 00:06:14,900
-...او خطرات عظیم پیش رو را پیش‌بینی کرده بود،
+...he anticipated the immense danger ahead,
 
 76
 00:06:15,100 --> 00:06:16,900
-و عمداً شیائو هویی را جا گذاشت.
+and deliberately left Xiao Hui behind.
 
 77
 00:06:17,500 --> 00:06:19,500
-این حقیقت که شیائو هویی به قله بامبوی بزرگ بازگشته...
+The fact that Xiao Hui has returned to Big Bamboo Peak...
 
 78
 00:06:19,500 --> 00:06:21,500
-آیا این ثابت نمی‌کند که در اعماق قلبش،
+doesn't it prove that deep down in his heart,
 
 79
 00:06:21,700 --> 00:06:22,900
-آن کودک هنوز این مکان را...
+that child still considers this place...
 
 80
 00:06:23,100 --> 00:06:24,900
-...خانه نهایی خود می‌داند؟
+...to be his final home?
 
 81
 00:06:25,000 --> 00:06:26,000
-آن بچه احمق...
+That foolish brat...
 
 82
 00:06:26,700 --> 00:06:27,500
-چی گفتی؟
+What did you say?
 
 83
 00:06:30,300 --> 00:06:31,500
-میمون لعنتی!
+Damn monkey!
 
 84
 00:06:31,900 --> 00:06:33,500
-یک روز پوستت را زنده‌زنده خواهم کند،
+One of these days I'm going to skin you alive,
 
 85
 00:06:33,500 --> 00:06:34,500
-بعد ببینم باز هم می‌توانی بخوری!
+then let's see if you can keep eating!
 
 86
 00:06:37,100 --> 00:06:38,500
-این دیگه گستاخیه محضه!
+This is absolute disrespect!
 
 87
 00:06:38,900 --> 00:06:41,500
-حالا حتی یک سگ هم جرات می‌کند بیرون بپرد و به من پارس کند!
+Now even a dog dares to jump out and bark at me!
 
 88
 00:06:41,900 --> 00:06:42,500
-لائو لیو!
+Lao Liu!
 
 89
 00:06:43,500 --> 00:06:43,900
-استاد!
+Master!
 
 90
 00:06:44,100 --> 00:06:45,100
-دستور شما چیست؟
+What are your orders?
 
 91
 00:06:45,500 --> 00:06:46,400
-امروز ظهر...
+Today at noon...
 
 92
 00:06:46,900 --> 00:06:48,700
-...آن سگ احمق را برای من ذبح کن.
+...you slaughter that stupid dog for me.
 
 93
 00:06:48,900 --> 00:06:50,100
-می‌خواهم برای ناهار توی قابلمه پخته شود!
+I want him stewed in a pot for lunch!
 
 94
 00:06:50,100 --> 00:06:51,900
-سال‌هاست این سگ بی‌فایده را بزرگ کرده‌ام،
+I've wasted years raising this useless mutt,
 
 95
 00:06:52,000 --> 00:06:52,500
-خب...
+Well...
 
 96
 00:06:52,500 --> 00:06:53,700
-و او در نهایت کاملاً بی‌ارزش است!
+and he's still completely worthless in the end!
 
 97
 00:06:57,100 --> 00:06:57,300
-هی!
+Hey!
 
 98
 00:06:57,300 --> 00:06:58,500
-به چی می‌خندید؟!
+What are you all laughing at?!
 
 99
 00:06:58,500 --> 00:06:58,900
-این‌ها...
+These...
 
 100
 00:06:58,900 --> 00:07:00,700
-این‌ها دستورات مستقیم استاد است!
+These are direct orders from Master!
 
 101
 00:07:00,900 --> 00:07:02,700
-من واقعاً باید چیکار کنم؟!
+What on earth am I supposed to do?!
 
 102
 00:07:04,900 --> 00:07:05,500
-برادر کوچک‌تر،
+Junior Brother,
 
 103
 00:07:05,900 --> 00:07:08,500
-این یک وظیفه مهم است که استاد به تو سپرده.
+this is an important task entrusted to you by Master.
 
 104
 00:07:09,100 --> 00:07:10,900
-باید آن را به درستی به سرانجام برسانی.
+You must see it through properly.
 
 105
 00:07:12,300 --> 00:07:14,900
-دارید کی رو مسخره می‌کنید؟! همه می‌دونن محبوبِ استاد دا هوانگ هست!
+Who are you kidding?! Everyone knows Master’s favorite is Da Huang!
 
 106
 00:07:15,500 --> 00:07:16,300
-و حالا این...
+And now this...
 
 107
 00:07:17,100 --> 00:07:19,100
-اگر من واقعاً دستورات استاد را دنبال می‌کردم...
+If I actually followed Master's orders...
 
 108
 00:07:19,500 --> 00:07:20,500
-وقتی او بدون شک بعداً پشیمان می‌شود،
+when he inevitably regrets it later,
 
 109
 00:07:21,100 --> 00:07:21,900
-آیا اصلاً می‌توانم زنده بمانم؟!
+would I even survive the day?!
 
 110
 00:07:24,900 --> 00:07:25,500
-لائو لیو،
+Lao Liu,
 
 111
 00:07:26,100 --> 00:07:27,700
-تو واقعاً آدم باهوشی هستی.
+you truly are a clever one.
 
 112
 00:07:27,900 --> 00:07:29,100
-تو نیت واقعی استاد را کاملاً درک می‌کنی.
+You understand Master's true intentions perfectly.
 
 113
 00:07:29,700 --> 00:07:30,500
-از آنجایی که چنین است...
+Since that's the case...
 
 114
 00:07:30,900 --> 00:07:32,300
-فقط دستورات استاد را نادیده بگیر و حالم خوب خواهد بود.
+just ignore Master's orders and you'll be fine.
 
 115
 00:07:33,100 --> 00:07:36,900
-با این حال، چیزی که استاد بیشتر از همه متنفر است این است که ما شاگردان از فرمان‌هایش سرپیچی کنیم.
+However, what Master hates the most is when we disciples disobey his commands.
 
 116
 00:07:37,300 --> 00:07:41,100
-وقتی استاد بفهمد که لائو لیو جرات کرده حرف‌هایش را مثل باد از گوشش رد کند...
+Once Master finds out that Lao Liu dared to treat his words like wind past his ears...
 
 117
 00:07:41,340 --> 00:07:42,100
-خب...
+well...
 
 118
 00:07:44,900 --> 00:07:46,300
-ای بی‌غیرتا!
+You disloyal bastards!
 
 119
 00:07:46,700 --> 00:07:47,700
-دیر یا زود سزای عملتان را خواهید دید!
+Sooner or later, you'll get your retribution!
 
 120
 00:07:59,300 --> 00:08:00,300
-نکند یکی از برادران ارشد من...
+Could it be that one of my senior brothers...
 
 121
 00:08:00,700 --> 00:08:02,700
-...واقعاً در چنین زمانی دارد با من شوخی می‌کند؟
+...is actually playing a trick on me at a time like this?
 
 122
 00:08:08,900 --> 00:08:09,700
-نکند...
+Could it be...
 
 123
 00:08:22,100 --> 00:08:23,700
-این سفر پر از خطرات شدید است.
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}This journey is fraught with extreme danger.
 
 124
 00:08:24,300 --> 00:08:25,900
-اگر حادثه ناگواری برای شما رخ دهد...
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}If any mishap befalls you...
 
 125
 00:08:27,000 --> 00:08:28,000
-من...
+{\c&HFFFFFF&\3c&HFFCC55&\bord2\blur15}I...
 
 126
 00:08:29,700 --> 00:08:31,300
-این شاگرد توسط فرقه ما پرورش یافته و آموزش دیده است.
+{\c&HFFFFFF&\3c&HFFCC55&\bord2\blur15}This disciple has been nurtured and taught by our sect.
 
 127
 00:08:32,100 --> 00:08:33,100
-وظیفه من است که از مردم عادی محافظت کنم.
+{\c&HFFFFFF&\3c&HFFCC55&\bord2\blur15}It is my duty to protect the common people.
 
 128
 00:08:34,100 --> 00:08:36,100
-در مقایسه با امنیت جهان،
+{\c&HFFFFFF&\3c&HFFCC55&\bord2\blur15}Compared to the safety of the world,
 
 129
 00:08:36,700 --> 00:08:37,900
-زندگی یا مرگ یک نفر چه اهمیتی دارد؟
+{\c&HFFFFFF&\3c&HFFCC55&\bord2\blur15}what does the life or death of one person matter?
 
 130
 00:08:41,000 --> 00:08:41,900
-بسیار خب.
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}Fine.
 
 131
 00:08:42,900 --> 00:08:43,900
-پس برو.
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}Go then.
 
 132
 00:08:48,290 --> 00:08:49,900
-فقط امیدوارم به یاد داشته باشی...
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}I only hope you remember...
 
 133
 00:08:51,100 --> 00:08:52,700
-با تیان‌یا در دست،
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}With Tianya in hand,
 
 134
 00:08:53,500 --> 00:08:55,100
-توهمات این دنیا را قطع کن.
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}sever the illusions of this world.
 
 135
 00:08:56,200 --> 00:08:57,700
-به مردم عادی خیانت نکن،
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}Do not fail the common people,
 
 136
 00:08:58,700 --> 00:09:00,290
-و به ندای شمشیرت خیانت نکن.
+{\c&HFFFFFF&\3c&HB469FF&\bord2\blur15}and do not fail the cry of your sword.
 
 137
 00:09:22,900 --> 00:09:23,500
-شوچی،
+Xueqi,
 
 138
 00:09:23,900 --> 00:09:24,500
-چه اتفاقی افتاده؟
+what's wrong?
 
 139
 00:09:25,500 --> 00:09:27,500
-این سفر به مرز جنوبی فوق‌العاده خطرناک است.
+This journey to the Southern Border is incredibly dangerous.
 
 140
 00:09:27,500 --> 00:09:29,100
-اگر تردیدی داری...
+If you have any reservations...
 
 141
 00:09:29,500 --> 00:09:30,100
-خواهر ارشد،
+Senior Sister,
 
 142
 00:09:30,500 --> 00:09:30,700
-من حالم خوب است.
+I am fine.
 
 143
 00:09:33,100 --> 00:09:33,700
-خواهران ارشد،
+Senior Sisters,
 
 144
 00:09:34,100 --> 00:09:34,500
-بیایید حرکت کنیم.
+let us depart.
 
 145
 00:09:55,700 --> 00:10:00,000
-مترجم: دونگ‌هوآ قبیله «میائو» رمان را به قبیله عنصر «طلا» (جین زو) تغییر داد تا از ارجاعات قومی دنیای واقعی جلوگیری کند.
+{\fn方正苏新诗柳楷繁体\pos(550,70)\fs30\1c&HB8D3EC&}TN: The Donghua altered the novel's "Miao Tribe" to the elemental
+"Gold Tribe" (Jin Zu) to avoid real world ethnic references.
 
 146
 00:09:55,700 --> 00:09:58,900
-در آینده، اگر قبیله طلا روزی با فاجعه‌ای روبرو شود...
+{\c&HFFFFFF&\3c&H55E64B&\bord2\blur15}In the future, if the Gold Tribe ever faces a calamity...
 
 147
 00:09:59,100 --> 00:10:02,290
-امیدوارم بتوانید محافظت خود را ارائه دهید.
+{\c&HFFFFFF&\3c&H55E64B&\bord2\blur15}I hope you can offer your protection.
 
 148
 00:10:02,700 --> 00:10:03,900
-این کار را می‌کنید؟
+{\c&HFFFFFF&\3c&H55E64B&\bord2\blur15}Will you?
 
 149
 00:10:05,290 --> 00:10:05,900
-مهمان گرامی،
+Esteemed Guest,
 
 150
 00:10:06,100 --> 00:10:07,100
-لطفاً مرا دنبال کنید.
+please follow me.
 
 151
 00:10:30,100 --> 00:10:31,900
-من شامان اعظم نسل جدید قبیله طلا هستم.
+I am the Gold Tribe's new generation Great Shaman.
 
 152
 00:10:32,900 --> 00:10:33,700
-استاد گویلی،
+Master Ghost Li,
 
 153
 00:10:34,100 --> 00:10:35,100
-مدت‌هاست نام بزرگ شما را شنیده‌ام.
+I have long heard of your great name.
 
 154
 00:10:37,100 --> 00:10:38,100
-شامان اعظم، او...
+The Great Shaman, he...
 
 155
 00:10:40,100 --> 00:10:41,300
-طبق رسوم قبیله طلا،
+According to the customs of the Gold Tribe,
 
 156
 00:10:41,900 --> 00:10:43,300
-پس از مرگ شامان اعظم،
+after the death of the Great Shaman,
 
 157
 00:10:43,800 --> 00:10:46,000
-مترجم: قبایل مرز جنوبی توتم‌های حیوانی اولیه را می‌پرستند. خدای سگ (犬神) روح نگهبان مقدس قبیله طلا است.
+{\fn方正苏新诗柳楷繁体\pos(450,80)\fs30\1c&HB8D3EC&}TN: The tribes of the Southern Border worship primal animal totems.
+The Dog Deity (犬神) is the sacred guardian spirit of the Gold Tribe.
 
 158
 00:10:43,700 --> 00:10:46,100
-آنها باید به مدت یک سال در زیر مجسمه خدای سگ پرستش شوند.
+they must be worshipped beneath the Dog Deity statue for a year.
 
 159
 00:10:46,900 --> 00:10:47,300
-این‌ها...
+These...
 
 160
 00:10:47,700 --> 00:10:49,300
-این‌ها خاکستر استاد من هستند.
+These are my master's ashes.
 
 161
 00:11:00,100 --> 00:11:02,100
-اگر اصرار نمی‌کردم شامان اعظم با من برود،
+If I hadn't insisted on the Great Shaman leaving with me,
 
 162
 00:11:02,700 --> 00:11:04,700
-شاید او در سرزمینی غریب جان خود را از دست نمی‌داد.
+perhaps he wouldn't have perished in a foreign land.
 
 163
 00:11:06,500 --> 00:11:07,700
-هر بار که به این فکر می‌کنم،
+Every time I think of this,
 
 164
 00:11:08,300 --> 00:11:09,700
-قلبم آرامش ندارد.
+my heart knows no peace.
 
 165
 00:11:10,900 --> 00:11:12,300
-استاد مدت‌ها پیش به من گفته بود
+Master had told me long ago
 
 166
 00:11:12,900 --> 00:11:14,100
-که او به پایان عمرش رسیده است.
+that he had reached the end of his lifespan.
 
 167
 00:11:14,700 --> 00:11:15,900
-حتی اگر به دشت‌های مرکزی نرفته بود،
+Even if he hadn't gone to the Central Plains,
 
 168
 00:11:16,300 --> 00:11:17,500
-باز هم نمی‌توانست از مرگ بگریزد.
+he still couldn't have avoided death.
 
 169
 00:11:19,700 --> 00:11:20,500
-علاوه بر این، فرقه محترم شما
+Moreover, your honorable sect
 
 170
 00:11:20,900 --> 00:11:22,900
-به طور ویژه کسی را برای بازگرداندن خاکستر استاد فرستاد.
+specially sent someone to return Master's ashes.
 
 171
 00:11:23,300 --> 00:11:24,100
-ما عمیقاً از این لطف قدردانی می‌کنیم.
+We deeply appreciate the gesture.
 
 172
 00:11:24,700 --> 00:11:25,700
-آن کارها...
+Those things...
 
 173
 00:11:26,100 --> 00:11:27,500
-توسط افراد صادق دیگری انجام شد.
+were done by other sincere people.
 
 174
 00:11:28,500 --> 00:11:29,900
-هیچ ربطی به من نداشت.
+It had nothing to do with me.
 
 175
 00:11:38,300 --> 00:11:38,900
-تعجب می‌کنم،
+I wonder,
 
 176
 00:11:39,300 --> 00:11:40,700
-آقای گویلی، دلیل اینکه
+Mr. Ghost Li, what is the reason
 
 177
 00:11:41,100 --> 00:11:41,900
-امروز به اینجا آمده‌اید چیست؟
+for your visit today?
 
 178
 00:11:42,300 --> 00:11:43,500
-اگرچه خدای دیوان به شدت زخمی شد،
+Although the Beast Deity was heavily injured,
 
 179
 00:11:44,300 --> 00:11:45,500
-او توانست با جسم تکه‌تکه‌اش فرار کند
+he managed to escape with his broken body
 
 180
 00:11:45,700 --> 00:11:46,500
-و بدون هیچ اثری ناپدید شده است.
+and has vanished without a trace.
 
 181
 00:11:48,300 --> 00:11:50,300
-من قصد دارم به این بلا خاتمه قطعی بدهم.
+I intend to put an absolute end to this scourge.
 
 182
 00:11:51,300 --> 00:11:53,100
-آیا سرنخی در این باره دارید؟
+Do you happen to have any clues?
 
 183
 00:11:53,700 --> 00:11:54,700
-آیا می‌توانی او را بکشی؟
+Can you kill him?
 
 184
 00:11:55,300 --> 00:11:56,900
-من حاضرم تمام تلاشم را بکنم.
+I am willing to give it everything I have.
 
 185
 00:11:59,500 --> 00:12:00,900
-استاد گویلی، قلب نیکوکار شما
+Master Ghost Li, your righteous heart
 
 186
 00:12:01,700 --> 00:12:02,700
-موجب احترام عمیق من است.
+commands my deep respect.
 
 187
 00:12:03,500 --> 00:12:04,500
-از آنجا که چنین است،
+Since that is the case,
 
 188
 00:12:04,900 --> 00:12:05,900
-هر آنچه را که می‌دانم
+I will tell you everything
 
 189
 00:12:06,100 --> 00:12:06,700
-به شما خواهم گفت.
+that I know.
 
 190
 00:12:08,100 --> 00:12:09,500
-بر اساس طومارهای مخفی قبیله ما،
+According to our tribe's secret scrolls,
 
 191
 00:12:09,700 --> 00:12:11,300
-ریشه‌های خدای دیوان ناشناخته است،
+the Beast Deity's origins are unknown,
 
 192
 00:12:11,700 --> 00:12:12,900
-اما او فوق‌العاده قدرتمند است.
+but he is exceptionally powerful.
 
 193
 00:12:13,300 --> 00:12:14,300
-او جاودان و نابودناپذیر است.
+He is immortal and indestructible.
 
 194
 00:12:14,900 --> 00:12:17,100
-او فقط می‌تواند مهروموم و سرکوب شود،
+He can only be sealed and suppressed,
 
 195
 00:12:17,500 --> 00:12:19,100
-درستی همان کاری که الهه شامان ده هزار سال پیش انجام داد.
+just as the Shaman Goddess did ten thousand years ago.
 
 196
 00:12:19,900 --> 00:12:20,900
-پنج سلاح الهی
+The five divine weapons
 
 197
 00:12:21,300 --> 00:12:22,700
-منبع زندگی خدای دیوان هستند.
+are the source of the Beast Deity's life.
 
 198
 00:12:23,300 --> 00:12:24,900
-تا زمانی که موفق شوید آنها را از او بگیرید،
+As long as you manage to strip them from him,
 
 199
 00:12:25,300 --> 00:12:26,100
-خدای دیوان...
+the Beast Deity...
 
 200
 00:12:26,500 --> 00:12:28,300
-به طور طبیعی به خواب عمیقی فرو خواهد رفت.
+will naturally fall back into a deep slumber.
 
 201
 00:12:29,100 --> 00:12:30,500
-اما مهار کردن خدای دیوان
+But subduing the Beast Deity
 
 202
 00:12:30,700 --> 00:12:31,900
-کار آسانی نیست.
+is no easy task.
 
 203
 00:12:33,100 --> 00:12:34,100
-در آن زمان، الهه شامان
+Back then, the Shaman Goddess
 
 204
 00:12:34,100 --> 00:12:35,300
-به یک آرایش باستانی و شگفت‌انگیز متکی بود
+relied on an ancient, wondrous formation
 
 205
 00:12:35,700 --> 00:12:36,900
-آرایش جهنمی هشت وحشی
+the Eight Savage Inferno Formation
 
 206
 00:12:37,100 --> 00:12:38,500
-تا در نهایت او را به دام بیندازد.
+to finally trap him.
 
 207
 00:12:39,700 --> 00:12:40,900
-اگر بتوانید آن را پیدا کنید...
+If you can find it...
 
 208
 00:12:41,500 --> 00:12:41,900
-شاید...
+perhaps...
 
 209
 00:12:42,900 --> 00:12:44,700
-آرایش جهنمی هشت وحشی.
+The Eight Savage Inferno Formation.
 
 210
 00:12:46,500 --> 00:12:48,860
-به نظر می‌رسد باید سفری به درّه فن‌شیانگ داشته باشم.
+It seems I need to make a trip to Burning Incense Valley.
 
 211
 00:12:50,100 --> 00:12:51,100
-افسانه می‌گوید،
+Legend says,
 
 212
 00:12:51,300 --> 00:12:53,100
-مکانی که الهه شامان خدای دیوان را در آنجا مهروموم کرد
+the place where the Shaman Goddess sealed the Beast Deity
 
 213
 00:12:53,500 --> 00:12:55,900
-غار مهار دیوان، در اعماق کوهستان بزرگ ده‌هزار است.
+is the Subdue Devil Cave, deep within the Ten Thousand Great Mountains.
 
 214
 00:12:56,500 --> 00:12:57,300
-در آن غار،
+In that cave,
 
 215
 00:12:57,500 --> 00:12:59,900
-ممکن است سرنخ‌هایی درباره آرایش و دیوان وحشی پیدا کنید.
+you might find clues regarding the formation and the beast demon.
 
 216
 00:13:04,300 --> 00:13:04,700
-متشکرم.
+Thank you.
 
 217
 00:13:17,900 --> 00:13:19,300
-غار هفت مایل دچار چنین فاجعه ویرانگری شده است.
+Seven Miles Cave has suffered such a devastating calamity.
 
 218
 00:13:20,300 --> 00:13:21,900
-قبایل بی‌شماری خانواده‌ها و خانه‌های خود را از دست داده‌اند.
+Countless tribespeople have lost their families and homes.
 
 219
 00:13:23,100 --> 00:13:24,100
-چرا شامان اعظم...
+Why is it that the Great Shaman...
 
 220
 00:13:25,100 --> 00:13:26,900
-هیچ اثری از اندوه در چشمانش دیده نمی‌شود؟
+shows no trace of sorrow in his eyes?
 
 221
 00:13:29,500 --> 00:13:30,700
-مرده‌ها رفته‌اند،
+The dead are gone,
 
 222
 00:13:31,300 --> 00:13:32,300
-اما زنده‌ها...
+but the living...
 
 223
 00:13:32,500 --> 00:13:33,900
-هنوز روزهایی در پیش دارند که باید تحمل کنند.
+still have days ahead they must endure.
 
 224
 00:13:35,300 --> 00:13:36,900
-اگر خودم را در اندوه و ناامیدی گم کنم...
+If I lose myself in grief and despair...
 
 225
 00:13:37,500 --> 00:13:38,300
-پس چه کسی...
+then who...
 
 226
 00:13:38,900 --> 00:13:40,700
-برای مراقبت از مردمم باقی خواهد ماند؟
+will be left to take care of my people?
 
 227
 00:14:00,200 --> 00:14:02,000
-زمانی که زنجیرهای آتش تاریک باز شدند،
+Back when the Dark Fire Chains were undone,
 
 228
 00:14:02,800 --> 00:14:04,600
-این مکان آسیب زیادی دید.
+this place sustained heavy damage.
 
 229
 00:14:13,400 --> 00:14:14,000
-اینجا...
+This is...
 
 230
 00:14:26,800 --> 00:14:28,000
-مدت‌هاست گذشته است.
+It's been a long time.
 
 231
 00:14:28,200 --> 00:14:30,000
-ارباب جوان، نه تنها تزکیه شما پیشرفت کرده،
+Not only has your cultivation advanced, Young Master,
 
 232
 00:14:30,200 --> 00:14:32,000
-بلکه ذهن شما هم تیزتر شده، مگر نه؟
+but your mind has grown even sharper, hasn't it?
 
 233
 00:14:33,200 --> 00:14:34,600
-اینجا چیکار می‌کنی؟
+What are you doing here?
 
 234
 00:14:35,600 --> 00:14:37,200
-اینجا منتظر تو بودم.
+I've been waiting here for you.
 
 235
 00:14:37,600 --> 00:14:38,600
-منتظر من؟ برای چه؟
+Waiting for me? For what?
 
 236
 00:14:39,800 --> 00:14:41,600
-و از کجا می‌دانستی به اینجا می‌آیم؟
+And how did you know I would come here?
 
 237
 00:14:42,600 --> 00:14:44,200
-نکند از قبل فراموش کرده‌ای؟
+Could it be you've already forgotten?
 
 238
 00:14:44,200 --> 00:14:45,600
-آخرین باری که اینجا بودی...
+The last time you were here...
 
 239
 00:14:46,000 --> 00:14:47,600
-...با من آمده بودی.
+...you came with me.
 
 240
 00:14:48,800 --> 00:14:50,400
-شنیدم داشتی خدای دیوان را تعقیب می‌کردی.
+I heard you were tracking the Beast Deity.
 
 241
 00:14:51,000 --> 00:14:52,600
-طبق افسانه‌های مرز جنوبی،
+According to the legends of the Southern Border,
 
 242
 00:14:52,800 --> 00:14:54,200
-برای مهروموم و سرکوب خدای دیوان،
+to seal and suppress the Beast Deity,
 
 243
 00:14:54,400 --> 00:14:56,800
-طبیعتاً نمی‌توانی بدون آرایش اینجا کاری کنی.
+you naturally cannot do without the formation in this place.
 
 244
 00:14:57,400 --> 00:14:58,600
-اگر به اینجا نیامدی،
+If you didn't come here,
 
 245
 00:14:59,600 --> 00:15:00,800
-کجا می‌توانستی بروی؟
+where else could you go?
 
 246
 00:15:02,200 --> 00:15:03,000
-می‌بینی...
+You see...
 
 247
 00:15:03,200 --> 00:15:04,200
-مگر من باهوش نیستم؟
+aren't I clever?
 
 248
 00:15:20,200 --> 00:15:21,800
-چقدر گذشته است؟
+How long has it been?
 
 249
 00:15:23,200 --> 00:15:24,400
-شون‌اِر غریبه نیست.
+Xun'er is not an outsider.
 
 250
 00:15:25,000 --> 00:15:28,800
-مترجم: درّه فن‌شیانگ = درّه عود سوزان / فن‌شیانگ
+{\fn方正苏新诗柳楷繁体\pos(900,40)\fs38\1c&HB8D3EC&}TN : FenXiang Valley = Burning Incense Valley
 
 251
 00:15:25,000 --> 00:15:26,800
-او در آینده کنترل درّه فن‌شیانگ را به دست خواهد گرفت.
+He will take over Burning Incense Valley in the future.
 
 252
 00:15:27,400 --> 00:15:29,000
-نیازی نیست این مسائل را از او پنهان کنیم.
+There is no need to hide these matters from him.
 
 253
 00:15:30,200 --> 00:15:31,200
-از زمانی که تدارکات ما کامل شد
+From the time our preparations were complete
 
 254
 00:15:31,600 --> 00:15:33,200
-و احضار رسمی آغاز شد،
+and the official summoning began,
 
 255
 00:15:33,600 --> 00:15:34,200
-تا امروز...
+up until today...
 
 256
 00:15:34,800 --> 00:15:36,400
-دقیقاً سی روز گذشته است.
+it has been exactly thirty days.
 
 257
 00:15:37,000 --> 00:15:38,000
-پیر درخشان آتش سرخ...
+The Red Fire Brilliant Elder...
 
 258
 00:15:38,400 --> 00:15:39,400
-اصلاً پاسخی نداده است.
+has not responded at all.
 
 259
 00:15:40,400 --> 00:15:41,800
-آن روز، وقتی گدازه فوران کرد،
+That day, when the lava erupted,
 
 260
 00:15:42,200 --> 00:15:43,600
-آسیب زیادی به آرایش وارد کرد.
+it caused far too much damage to the formation.
 
 261
 00:15:44,200 --> 00:15:45,400
-انرژی روحی درّه فن‌شیانگ ما...
+The spiritual energy our Burning Incense Valley...
 
 262
 00:15:45,800 --> 00:15:47,800
-...صدها سال طول کشیده بود تا اینجا جمع شود
+...spent hundreds of years accumulating here
 
 263
 00:15:48,000 --> 00:15:49,000
-اکنون کاملاً تخلیه شده است.
+has already been completely exhausted.
 
 264
 00:15:49,700 --> 00:15:52,200
-به آن از دست رفتن کلید آرایش، آینه جهنمی را اضافه کنید...
+Add to that the loss of the formation's key, the Inferno Mirror...
 
 265
 00:15:52,600 --> 00:15:53,600
-واقعاً این...
+It truly is...
 
 266
 00:15:54,400 --> 00:15:56,000
-آرایش درون محراب جهنم
+The formation within the Inferno Altar
 
 267
 00:15:56,200 --> 00:16:00,000
-توسط نیاکان فرقه ما بر اساس سوابق موجود در کتاب یشم عود سوزان ساخته شده است.
+was constructed by our sect's ancestors based
+on the records in the Burning Incense Jade Tome.
 
 268
 00:16:00,000 --> 00:16:05,000
-مترجم: کتاب یشم عود سوزان (焚香玉册). کتابچه راهنمای عالی تزکیه درّه فن‌شیانگ. تاریک‌ترین راز آن آرایش ممنوعه محراب جهنم است که از آینه جهنمی برای احضار اژدهای آتشین هشت برهوت استفاده می‌کند.
+{\fn方正苏新诗柳楷繁体\pos(740,140)\fs30\1c&HB8D3EC&}TN : Burning Incense Jade Tome (焚香玉册 - Fénxiāng Yùcè) - Translated as "Tome" rather than "Book" to reflect its ancient, high fantasy weight. This is the supreme cultivation manual of Burning Incense Valley. Its darkest
+secret is the Inferno Altar's forbidden formation, which uses the Inferno Mirror to summon
+the world-ending Eight Desolation Fire Dragon.
 
 269
 00:16:00,800 --> 00:16:02,000
-در انتهای کتاب یشم،
+At the very end of the Jade Tome,
 
 270
 00:16:02,400 --> 00:16:05,000
-یک نیا روزی روشی بسیار پرمخاطره را به جا گذاشته بود.
+a forefather once left behind a highly risky method.
 
 271
 00:16:05,400 --> 00:16:07,800
-آرایش جهنمی از انرژی‌های شرور جهان متولد شده،
+The Inferno Formation is born of the world's vicious energies,
 
 272
 00:16:08,400 --> 00:16:10,200
-جانور آتش سرخ وحشی و بی‌رحم است،
+the Red Fire Beast is savage and brutal,
 
 273
 00:16:11,000 --> 00:16:14,200
-و ارواح موجود در حکاکی‌های آرایش، خدایان وحشی هشتگانه هستند.
+and the spirits housed within the formation's engravings are
+the Eight Savage Ferocious Deities.
 
 274
 00:16:14,600 --> 00:16:15,800
-با استنتاج از این،
+Deducing from this,
 
 275
 00:16:16,400 --> 00:16:19,200
-و با ارجاع به متون باستانی مرز جنوبی، اگر خون انسان‌های زنده را قربانی کنیم...
+and referencing ancient Southern Border texts, if we sacrifice the blood of living humans...
 
 276
 00:16:19,800 --> 00:16:21,200
-انرژی شرور اوج خواهد گرفت،
+the vicious energy will surge,
 
 277
 00:16:21,400 --> 00:16:22,800
-خدایان به جاهای خود باز خواهند گشت،
+the deities will return to their rightful places,
 
 278
 00:16:23,400 --> 00:16:24,600
-جانور درنده ظاهر خواهد شد،
+the ferocious beast will manifest,
 
 279
 00:16:25,600 --> 00:16:27,200
-و آرایش آتش کامل خواهد شد!
+and the fire formation will be complete!
 
 280
 00:16:28,500 --> 00:16:29,000
-این...
+This...
 
 281
 00:16:29,800 --> 00:16:32,000
-آیا این واقعاً توسط نیاکان فرقه ما نوشته شده است؟
+Was this truly written by our sect's ancestor?
 
 282
 00:16:32,000 --> 00:16:35,800
-شک دارید که من از نام نیاکانمان به عنوان بهانه استفاده می‌کنم
+Are you suspecting that I am using our forefather's name as a pretext
 
 283
 00:16:35,800 --> 00:16:37,800
-تا این عمل شنیع را انجام دهم؟!
+to commit this evil deed?!
 
 284
 00:16:39,200 --> 00:16:39,800
-جرات نمی‌کنم.
+I wouldn't dare.
 
 285
 00:16:40,000 --> 00:16:40,600
-فقط اینکه...
+It's just...
 
 286
 00:16:41,200 --> 00:16:43,200
-فقط این عمل قربانی کردن خون انسان‌های زنده
+It's just that this act of sacrificing the blood of living humans
 
 287
 00:16:43,600 --> 00:16:45,200
-مسلماً هنر تاریک فرقه شیطانی است!
+is clearly a dark art of the Evil Sect!
 
 288
 00:16:45,600 --> 00:16:46,200
-چگونه...
+How...
 
 289
 00:16:46,600 --> 00:16:48,600
-چگونه ممکن است در کتاب یشم فرقه ما ظاهر شود؟!
+How could it possibly appear within our sect's Jade Tome?!
 
 290
 00:16:48,800 --> 00:16:49,800
-اشتباه نمی‌کنی.
+You are not wrong.
 
 291
 00:16:50,600 --> 00:16:52,800
-اگرچه این نیا این کلمات را نوشته،
+Although this forefather wrote these words,
 
 292
 00:16:53,400 --> 00:16:55,200
-هیچ‌کس تا به حال آن را امتحان نکرده است.
+no one has ever attempted it.
 
 293
 00:16:56,000 --> 00:16:56,800
-برادر ارشد!
+Senior Brother!
 
 294
 00:16:57,200 --> 00:16:58,400
-طرح بزرگ طبیعتاً مهم است،
+The grand scheme is naturally important,
 
 295
 00:16:59,000 --> 00:17:00,000
-اما این روش...
+but this method...
 
 296
 00:17:00,200 --> 00:17:01,000
-دیگر خیلی جلو رفته است!
+is simply going too far!
 
 297
 00:17:01,000 --> 00:17:01,600
-برادر کوچک‌تر.
+Junior Brother.
 
 298
 00:17:02,400 --> 00:17:03,600
-محراب جهنم آسیب دید،
+The Inferno Altar was damaged,
 
 299
 00:17:03,800 --> 00:17:05,790
-و ما اکنون در این مخمصه وخیم گرفتار شده‌ایم.
+and we are now trapped in this dire predicament.
 
 300
 00:17:06,200 --> 00:17:07,790
-آیا واقعاً فکر می‌کنی هیچ تقصیری در این باره نداری؟
+Do you truly think you bear no blame for this?
 
 301
 00:18:11,400 --> 00:18:13,790
-ما در حال حاضر سه تا از چهار موجود الهی را به دست آورده‌ایم.
+We have already obtained three of the Four Divinities.
 
 302
 00:18:11,400 --> 00:18:16,000
-مترجم: چهار موجود الهی جانوران اسطوره‌ای باستانی هستند: کوی نیو (جانور رعد)، پرنده زرد (هوانگ نیاو)، تائوتی (جانور حریص) و ژولونگ (اژدهای مشعل). پادشاه ارواح در حال شکار آنهاست.
+{\fn方正苏新诗柳楷繁体\pos(970,80)\fs33\1c&HB8D3EC&}TN: The Four Divinities are ancient mythical beasts: Kui Niu (Thunder Beast), Yellow Bird (Huang Niao), TaoTie (Gluttonous Beast),
+and ZhuLong (Torch Dragon). The Ghost King is hunting them to activate the apocalyptic Four Divinities Blood Formation.
 
 303
 00:18:14,000 --> 00:18:16,400
-تا زمانی که جانور درنده، تائوتی را بگیریم...
+As long as we capture the ferocious beast, TaoTie...
 
 304
 00:18:16,600 --> 00:18:17,400
-...این دنیا...
+...this world...
 
 305
 00:18:17,600 --> 00:18:20,200
-...کاملاً در دستان ارباب فرقه خواهد بود.
+...will be entirely within the Sect Master's grasp.
 
 306
 00:18:21,000 --> 00:18:23,000
-من قبلاً افرادمان را برای رسیدگی به این موضوع اعزام کرده‌ام.
+I have already dispatched our people to handle this matter.
 
 307
 00:18:24,000 --> 00:18:25,000
-حدس می‌زنم...
+I presume...
 
 308
 00:18:25,200 --> 00:18:27,400
-...او ناامیدم نخواهد کرد.
+...he will not disappoint me.
 
 309
 00:18:30,540 --> 00:18:35,790
-به نواختن ناقوس‌های باستانی در سراسر هفت قله گوش فرا دهید
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Listen to the ancient chimes across the Seven Peaks
 
 310
 00:18:35,790 --> 00:18:42,960
-بالای پل رنگین‌کمان حوض یشم پاک، باد دریای بامبو را آرام می‌کند
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Above the clear jade pool's rainbow bridge, the wind quiets the sea of bamboo
 
 311
 00:18:42,960 --> 00:18:47,000
-قدم زدن زیر ماه خیره‌کننده
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Walking beneath the gazing moon
 
 312
 00:18:48,770 --> 00:18:54,020
-تماشای شناور شدن و جمع شدن ابرها در آسمان لاجوردی
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Watching clouds drift and gather in the azure sky
 
 313
 00:18:54,540 --> 00:19:01,700
-در طول هزاره‌ها، قلمرو فانی چند بار تغییر کرده است؟
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Through millennia, how many times has the mortal realm changed?
 
 314
 00:19:03,220 --> 00:19:08,000
-علف‌های هرز روی معابد ویران شده و روستاهای فراموش شده رشد می‌کنند
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Wild grass overgrows ruined temples and forgotten villages
 
 315
 00:19:08,940 --> 00:19:16,000
-اگرچه با جوهر دنیا لکه‌دار شده‌ام، روح واقعی من پاک می‌ماند
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Though stained by the world's ink, my true soul remains pure
 
 316
 00:19:17,250 --> 00:19:22,900
-چگونه توهم را ببینیم؟ برای خرد کردن این غل و زنجیرهای سنگین
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}How to see through the illusion? To shatter these heavy shackles
 
 317
 00:19:23,620 --> 00:19:26,000
-برای قطع کردن رشته‌های کارما
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}To sever the threads of karma
 
 318
 00:19:27,300 --> 00:19:31,380
-آیا می‌توان رهایی واقعی را پیدا کرد؟
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Can true liberation ever be found?
 
 319
 00:19:31,380 --> 00:19:37,580
-من از پنهان شدن امتناع می‌کنم، زیرا با این خاک فانی یکی هستم
+{\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}I refuse to hide, for I am one with this mortal dust
 
 320
 00:19:37,580 --> 00:19:39,200
-پس در کنار من بایست
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}So stand beside me
 
 321
 00:19:39,750 --> 00:19:46,020
-پرده توهم را پاره کن، کوه‌های سرسبز سر به فلک کشیده را بنگر
+{\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Shatter the veil of illusion, behold the towering green mountains
 
 322
 00:19:46,020 --> 00:19:49,340
-جایی که آسمان بی‌کران و دریا وسیع است
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Where the sky is boundless and the sea is vast
 
 323
 00:19:49,340 --> 00:19:55,930
-چگونه همه چیز را ببینیم؟ این غل و زنجیرهای سنگین
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}How to see through it all? These heavy shackles
 
 324
 00:19:55,940 --> 00:19:59,540
-برای تسویه بدهی‌های کارما
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}To settle the debts of karma
 
 325
 00:19:59,550 --> 00:20:06,100
-من از پنهان شدن امتناع می‌کنم، زیرا با این خاک فانی یکی هستم
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}I refuse to hide, for I am one with this mortal dust
 
 326
 00:20:06,100 --> 00:20:09,000
-پس در کنار من بایست
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}So stand beside me
 
 327
 00:20:09,350 --> 00:20:16,740
-از دریای ابرها عبور کن، کوه‌های سرسبز سر به فلک کشیده را بنگر
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Break through the sea of clouds, behold the towering green mountains
 
 328
 00:20:16,750 --> 00:20:22,540
-جایی که آسمان بی‌کران و دریا وسیع است
+{\fad(500,500)\fn方正苏新诗柳楷繁体\pos(1000,780)\fs55\c&HFFFFFF&\3c&H3C14DC&\bord2.5\blur15\shad1.5\4c&H3C14DC&}Where the sky is boundless and the sea is vast
 
