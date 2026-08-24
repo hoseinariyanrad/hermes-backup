@@ -9,3 +9,5 @@ Always thoroughly review and polish subtitle translations for cinematic flow, na
 Before uploading any subtitle file, perform a strict validation check to ensure 100% Persian content with zero untranslated English words or left-over notes.
 §
 Subtitle translations must be entirely conversational, colloquial, and fluent in Persian (avoiding formal/bookish or literal machine-like phrasing).
+§
+Subtitle translation style MUST match the user-provided reference (JD S4 E01 E-Sub): fully colloquial/moHaAvRe-i Persian, like real people talking. Use Vase, Baashesh, Nemidoonam, Biya Paayin, Fateheymoon Khoondeyst etc. NEVER bookish or formal.
